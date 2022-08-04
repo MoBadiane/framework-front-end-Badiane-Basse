@@ -10,12 +10,12 @@ RESTful Api, la gestion de l'authentification est la partie la plus importante d
 
 ----------------------------------------------------------------------
 1. Installer les dépendances du serveur node JS
-* Entrer dans le dossier server et faire npm install
+* Entrer dans le dossier server et faire `npm install`
 2. Installer les dépendances du frontend vue JS
-* Entrer dans le dossier shop et faire npm install
-Installer une base de donnée mysql et créer une base de donnée nommée mydb
-Dans le dossier server faire : npm run seed pour insérer les données de l’api dans la base de donnée puis  faire npm start
- Dans le dossier shop lancez : npm run serve
+* Entrer dans le dossier shop et faire `npm install`
+Installer une base de donnée mysql et créer une base de donnée nommée `mydb`
+Dans le dossier server faire : `npm run seed` pour insérer les données de l’api dans la base de donnée puis  faire `npm start`
+ Dans le dossier shop lancez : `npm run serve`
 
 
 3. Se connecter en tant que administrateur avec l’email admin@gmail.com et le mot de passe 12345678 
@@ -34,7 +34,7 @@ Dans le dossier server faire : npm run seed pour insérer les données de l’ap
 *	Ajouter produit dans le panier
 *	Effectuer un paiement 
 
-### Nb : Pour la partie de paiement, on a utilisé Stripe dans l’api ; donc il faut créer un compte stripe et sur le champ zip code mettre la clé publique du compte pour effectuer un paiement 
+`### Nb : Pour la partie de paiement, on a utilisé Stripe dans l’api ; donc il faut créer un compte stripe et sur le champ zip code mettre la clé publique du compte pour effectuer un paiement `
 
 ----------------------------------------------------------------------
 
@@ -53,4 +53,4 @@ Dans le dossier server faire : npm run seed pour insérer les données de l’ap
 [Database interfacing - Sequelize](https://sequelize.org/)
 
 
-### Mohameth BADIANE & Mame Libasse Laye BASSE MP-ISI1 Professeur : **Mr KUASSI** Merci pour ce module !!!
+ `### Mohameth BADIANE & Mame Libasse Laye BASSE MP-ISI1 Professeur : **Mr KUASSI** Merci pour ce module !!! `
