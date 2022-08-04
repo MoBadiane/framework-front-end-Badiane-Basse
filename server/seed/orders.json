@@ -1,0 +1,28 @@
+[
+  {
+    "id": 1,
+    "name": "Mohameth Badiane",
+    "phoneNo": "+221777696987",
+    "email": "metamedzo18@gmail.com",
+    "address": "<b>line1:</b> house no: 2, floor: 3<br/><b>line2:</b> Street: 22, Super Market<br/><b>zip code:</b> 1800<br/><b>city:</b> MJ<br/><b>division:</b> Dhaka<br/><b>country:</b> Bangladesh",
+    "status": "paid",
+    "variant": "dark",
+    "checkoutSessionId": "12asdfo2i3j4a",
+    "productCost": 400,
+    "currency": "USD",
+    "shippingCost": 4
+  },
+  {
+    "id": 2,
+    "name": "Libasse laye",
+    "phoneNo": "+221774642475",
+    "email": "liibaasseelaye@gmail.com",
+    "address": "<b>line1:</b> house no: 2, floor: 3<br/><b>line2:</b> Street: 22, Super Market<br/><b>zip code:</b> 1800<br/><b>city:</b> MJ<br/><b>division:</b> Dhaka<br/><b>country:</b> Bangladesh",
+    "status": "preparing",
+    "variant": "info",
+    "checkoutSessionId": "12asdfodi3j4s",
+    "productCost": 400,
+    "currency": "USD",
+    "shippingCost": 4
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "email": "admin@gmail.com",
+    "username": "admin",
+    "firstName": "libass",
+    "lastName": "lay",
+    "phoneNo": "+221774642475",
+    "password": "12345678",
+    "registerToken": "",
+    "resetPasswordToken": "",
+    "profileImage": "http://localhost:8084/public/user-image/default-man.png",
+    "userType": "Admin",
+    "variant": "dark",
+    "CompanyId": 1,
+    "priority": 1
+  },
+  {
+    "id": 2,
+    "email": "liibaasseelaye@gmail.com",
+    "username": "libasse123",
+    "firstName": "Libasse",
+    "lastName": "Laye",
+    "phoneNo": "+221774642475",
+    "password": "12345678",
+    "registerToken": "",
+    "resetPasswordToken": "",
+    "profileImage": "http://localhost:8084/public/user-image/default-man.png",
+    "userType": "Customer",
+    "variant": "warning",
+    "CompanyId": 1,
+    "priority": 2
+  },
+  {
+    "id": 3,
+    "email": "metamedzo18@gmail.com",
+    "username": "mohameth",
+    "firstName": "Mohameth",
+    "lastName": "Badiane",
+    "phoneNo": "+221777696887",
+    "password": "12345678",
+    "registerToken": "",
+    "resetPasswordToken": "",
+    "profileImage": "http://localhost:8084/public/user-image/default-man.png",
+    "userType": "Customer",
+    "variant": "warning",
+    "CompanyId": 1,
+    "priority": 2
+  }
+]
