@@ -56,6 +56,6 @@ Dans le dossier server faire : `npm run seed` pour insérer les données de l’
  ```
  ### Mohameth BADIANE & Mame Libasse Laye BASSE 
  ### MP-ISI1 
- ### Professeur : **Mr KUASSI** Merci pour ce module !!! 
+ ### Professeur : Mr KUASSI Merci pour ce module !!! 
  
  ```
