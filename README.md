@@ -2,7 +2,7 @@
 
 ## ESMT
 
-### Programming Overview
+### Présentation du travail
 #### Description Partie Frontend
 Dans ce projet, nous avons présenté de nombreuses bonnes fonctionnalités de Vue.js V2. Vous trouverez la **gestion d'état** à l'aide de plusieurs modules dans le répertoire. Pour le front-end, il existe un **flux d'authentification** avec une fonction de réinitialisation du mot de passe qui inclut **l'automatisation des e-mails**. Ensuite, nous avons ajouté le **moyen de paiement de Stripe** qui peut traiter différents types de cartes et de devises pris en charge par Stripe. Ensuite, à partir des pages de routage, vous trouverez un code détaillé sur la façon d'empêcher quelqu'un de visiter n'importe quel itinéraire et **afficher une page par défaut pour les demandes non authentifiées ou toute URL erronée ** saisie. Vous trouverez de nombreuses fonctionnalités avec la **mise à jour en temps réel** en ne rechargeant pas la page et bien d'autres. 
 #### Backend Description
